@@ -13,6 +13,6 @@
 #
 ---
 include:
-  - board: nrfmicro
+  - board: nrfmicro_13
     shield: cyb
 
